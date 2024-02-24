@@ -10,17 +10,21 @@ import NavItem from './NavItem.vue'
         </div>
         <div class="col-sm-10">
           <ul class="nav justify-content-center">
-            <RouterLink to="login">
+            <RouterLink to="/">
+              <NavItem label="Home"></NavItem>
+            </RouterLink>
+            <RouterLink to="about">
               <NavItem label="Tentang Kami"></NavItem>
             </RouterLink>
-
-            <NavItem label="Solusi Untukmu"></NavItem>
+            <RouterLink to="product">
+              <NavItem label="Solusi Untukmu"></NavItem>
+            </RouterLink>
           </ul>
         </div>
         <div class="col-sm-1">
-          <form action="">
-            <button type="button" class="btn btn-primary">Langganan</button>
-          </form>
+          <RouterLink to="login">
+            <button type="submit" class="btn btn-primary">Langganan</button>
+          </RouterLink>
         </div>
       </div>
     </div>

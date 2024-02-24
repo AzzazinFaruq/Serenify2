@@ -1,1 +1,7 @@
-<template>LOGIN COK</template>
+<script setup>
+import Temp from '../components/TemplateLog.vue'
+</script>
+
+<template>
+  <Temp></Temp>
+</template>
