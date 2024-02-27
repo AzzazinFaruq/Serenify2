@@ -1,6 +1,10 @@
 .margin {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.margin-text {
+  margin-top: -2rem;
+  margin-bottom: 3rem;
 }
 .marginLR {
   padding: 10%;
@@ -9,10 +13,7 @@
   --bs-nav-link-padding-x: 0.2rem;
   --bs-nav-link-padding-y: 0.5rem;
 }
-p {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
+
 h1 {
   font-size: 50px;
 }
