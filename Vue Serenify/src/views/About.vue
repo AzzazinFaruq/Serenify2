@@ -1,15 +1,15 @@
 <template>
   <div class="container-fluid">
-    <div class="row margin">
+    <div class="row">
       <div class="col-sm-3"></div>
-      <div class="col-sm-6 margin">
+      <div class="col-sm-6">
         <h1 style="text-align: center">Kami Merancang Cara Baru Dalam Berkonsultasi</h1>
       </div>
       <div class="col-sm-3"></div>
     </div>
-    <div class="row margin">
+    <div class="row margin-text">
       <div class="col-sm-3"></div>
-      <div class="col-sm-6 margin-text">
+      <div class="col-sm-6">
         <p style="text-align: center" class="justify-content-center">
           Lorem ipsum dolor sit amet consectetur. Ipsum blandit nisl varius aliquet hac ut tortor
           sodales. Tellus tristique nisl urna vitae tincidunt pulvinar tellus id. Suspendisse a
@@ -18,8 +18,8 @@
       </div>
     </div>
     <div
-      class="row bg-image p-5 shadow-1-strong rounded mb-5 text-white margin"
-      style="background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/003.webp')"
+      class="row bg-image p-5 shadow-1-strong rounded mb-5 text-white"
+      style="background-image: url(../assets/iya.jpg)"
     >
       <div class="col-sm-6">
         <h1 class="mb-3 h2">Temukan yang kamu butuhkan</h1>
@@ -33,8 +33,8 @@
     </div>
     <div class="row">
       <div class="col-sm-1"></div>
-      <div class="col-sm-5 margin"><h2 style="text-align: center">Cerita Kami</h2></div>
-      <div class="col-sm-4 margin">
+      <div class="col-sm-5"><h2 style="text-align: center">Cerita Kami</h2></div>
+      <div class="col-sm-4">
         <p>
           Lorem ipsum dolor sit amet consectetur. In sem proin consectetur arcu sagittis ultricies
           velit. Nec sodales eget quisque ultrices tristique est interdum fames a. Ipsum nunc felis

@@ -2,7 +2,7 @@
 import NavItem from './NavItem.vue'
 </script>
 <template>
-  <nav class="sticky-top bg-body-tertiary shadow p-1 mb-5 bg-white rounded">
+  <nav class="sticky-top bg-body-tertiary shadow p-1 bg-white rounded margin">
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-1">

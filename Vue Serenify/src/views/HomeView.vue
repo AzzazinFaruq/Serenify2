@@ -4,16 +4,16 @@ import HomeContent from '@/components/HomeContent.vue'
 
 <template>
   <div class="container-fluid">
-    <div class="row margin">
+    <div class="row">
       <div class="col-sm-3"></div>
-      <div class="col-sm-6 margin">
+      <div class="col-sm-6">
         <h1 style="text-align: center">Setiap Langkamu Adalah Tanda Keberanian.</h1>
       </div>
       <div class="col-sm-3"></div>
     </div>
-    <div class="row">
+    <div class="row margin-text">
       <div class="col-sm-3"></div>
-      <div class="col-sm-6 margin-text">
+      <div class="col-sm-6">
         <p style="text-align: center" class="justify-content-center">
           Lorem ipsum dolor sit amet consectetur. Ipsum blandit nisl varius aliquet hac ut tortor
           sodales. Tellus tristique nisl urna vitae tincidunt pulvinar tellus id. Suspendisse a
@@ -22,7 +22,7 @@ import HomeContent from '@/components/HomeContent.vue'
       </div>
       <div class="col-sm-3"></div>
     </div>
-    <div class="row margin">
+    <div class="row" style="margin-top: 72px">
       <div class="col">
         <ul class="nav justify-content-center margin">
           <li class="nav-1">
@@ -39,8 +39,11 @@ import HomeContent from '@/components/HomeContent.vue'
       </div>
     </div>
     <div
-      class="row bg-image p-5 shadow-1-strong rounded mb-5 text-white margin"
-      style="background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/003.webp')"
+      class="row bg-image p-5 shadow-1-strong rounded text-white margin"
+      style="
+        margin-top: 20px;
+        background-image: url('C:\Users\exfro\OneDrive\Desktop\Serenify\Vue Serenify\src\assets\iya.jpg');
+      "
     >
       <div class="col-sm-6">
         <h1 class="mb-3 h2">Temukan yang kamu butuhkan</h1>
@@ -52,16 +55,16 @@ import HomeContent from '@/components/HomeContent.vue'
         </p>
       </div>
     </div>
-    <div class="row margin">
+    <div class="row">
       <div class="col-sm-3"></div>
-      <div class="col-sm-6 margin">
+      <div class="col-sm-6">
         <h1 style="text-align: center">Setiap Langkamu Adalah Tanda Keberanian.</h1>
       </div>
       <div class="col-sm-3"></div>
     </div>
-    <div class="row">
+    <div class="row margin-text">
       <div class="col-sm-3"></div>
-      <div class="col-sm-6 margin-text">
+      <div class="col-sm-6">
         <p style="text-align: center" class="justify-content-center">
           Lorem ipsum dolor sit amet consectetur. Ipsum blandit nisl varius aliquet hac ut tortor
           sodales. Tellus tristique nisl urna vitae tincidunt pulvinar tellus id. Suspendisse a

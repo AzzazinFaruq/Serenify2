@@ -1,10 +1,8 @@
 .margin {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
+  margin-bottom: 150px;
 }
 .margin-text {
-  margin-top: -2rem;
-  margin-bottom: 3rem;
+  margin-top: 50px;
 }
 .marginLR {
   padding: 10%;
@@ -18,7 +16,7 @@ h1 {
   font-size: 50px;
 }
 .p-1 {
-  padding: 1.5rem !important;
+  padding: 1.3rem !important;
 }
 .mb-5 {
   margin-bottom: 5rem !important;
@@ -79,4 +77,10 @@ h3 {
   --bs-nav-link-hover-color: #000000 !important;
   --bs-nav-link-disabled-color: var(--bs-secondary-color);
   text-decoration: none !important;
+}
+col-sm-3 {
+  width: 286px !important;
+}
+col-sm-6 {
+  width: 868px !important;
 }
