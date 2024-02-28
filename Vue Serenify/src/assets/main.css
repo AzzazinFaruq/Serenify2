@@ -84,3 +84,13 @@ col-sm-3 {
 col-sm-6 {
   width: 868px !important;
 }
+.banner {
+  margin-top: 20px;
+  width: 1440px;
+  height: 500px;
+}
+.footer {
+  margin-top: 100px;
+  width: 1440px;
+  height: 300px;
+}

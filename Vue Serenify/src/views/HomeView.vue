@@ -38,22 +38,16 @@ import HomeContent from '@/components/HomeContent.vue'
         </ul>
       </div>
     </div>
-    <div
-      class="row bg-image p-5 shadow-1-strong rounded text-white margin"
-      style="
-        margin-top: 20px;
-        background-image: url('C:\Users\exfro\OneDrive\Desktop\Serenify\Vue Serenify\src\assets\iya.jpg');
-      "
-    >
-      <div class="col-sm-6">
-        <h1 class="mb-3 h2">Temukan yang kamu butuhkan</h1>
-
-        <p>
+    <div class="row bg-image p-5 shadow-1-strong rounded text-white margin banner img">
+      <div class="col-sm-6 align-middle">
+        <h1 class="h2">Temukan yang kamu butuhkan</h1>
+        <p class="margin-text">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus praesentium labore
           accusamus sequi, voluptate debitis tenetur in deleniti possimus modi voluptatum neque
           maiores dolorem unde? Aut dolorum quod excepturi fugit.
         </p>
       </div>
+      <div class="col-sm-6"></div>
     </div>
     <div class="row">
       <div class="col-sm-3"></div>
@@ -75,3 +69,9 @@ import HomeContent from '@/components/HomeContent.vue'
     </div>
   </div>
 </template>
+
+<style scooped>
+.img {
+  background-image: url('../assets/Banner.png');
+}
+</style>
