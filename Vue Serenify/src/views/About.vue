@@ -1,3 +1,6 @@
+<script>
+import Navbar from '../components/Navbar.vue'
+</script>
 <template>
   <div class="container-fluid">
     <div class="row">
