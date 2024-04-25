@@ -37,12 +37,15 @@
       </div>
     </div>
     <div class="row bg-image p-5 shadow-1-strong rounded text-white margin banner img">
-      <div class="col-sm-6 align-center">
-        <h1 class="h2 align-center" style="text-align: justify">Temukan yang kamu butuhkan</h1>
-        <p class="margin-text" style="text-align: justify">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus praesentium labore
-          accusamus sequi, voluptate debitis tenetur in deleniti possimus modi voluptatum neque
-          maiores dolorem unde? Aut dolorum quod excepturi fugit.
+
+      <div class="col-sm-6 align-middle">
+        <h1 class="h2" style="margin-top: 100px">Temukan yang kamu butuhkan</h1>
+        <p class="margin-text">
+          898b8bcd5de119c8ce4ff3e1c1a74dd98b86c44d Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Repellendus praesentium labore accusamus sequi, voluptate debitis
+          tenetur in deleniti possimus modi voluptatum neque maiores dolorem unde? Aut dolorum quod
+          excepturi fugit.
+>>>>>>> 5767fb954252dde8cb46cf9491cb5cdc9a81569e
         </p>
       </div>
       <div class="col-sm-6"></div>

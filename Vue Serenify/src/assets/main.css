@@ -73,6 +73,7 @@ a {
   text-decoration: none !important;
   --bs-nav-link-color: #000000 !important;
   --bs-nav-link-hover-color: #8d5ba6 !important;
+  color: #000000 !important;
 }
 h3 {
   --bs-nav-link-color: #000000 !important;
