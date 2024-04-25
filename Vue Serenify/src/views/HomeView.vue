@@ -1,6 +1,4 @@
-<script setup>
-import HomeContent from '@/components/HomeContent.vue'
-</script>
+<script setup></script>
 
 <template>
   <div class="container-fluid">
@@ -39,9 +37,9 @@ import HomeContent from '@/components/HomeContent.vue'
       </div>
     </div>
     <div class="row bg-image p-5 shadow-1-strong rounded text-white margin banner img">
-      <div class="col-sm-6 align-middle">
-        <h1 class="h2" style="margin-top: 100px;">Temukan yang kamu butuhkan</h1>
-        <p class="margin-text">
+      <div class="col-sm-6 align-center">
+        <h1 class="h2 align-center" style="text-align: justify">Temukan yang kamu butuhkan</h1>
+        <p class="margin-text" style="text-align: justify">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus praesentium labore
           accusamus sequi, voluptate debitis tenetur in deleniti possimus modi voluptatum neque
           maiores dolorem unde? Aut dolorum quod excepturi fugit.

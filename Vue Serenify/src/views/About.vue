@@ -1,3 +1,6 @@
+<script>
+import Navbar from '../components/Navbar.vue'
+</script>
 <template>
   <div class="container-fluid">
     <div class="row">
@@ -18,7 +21,7 @@
       </div>
     </div>
     <div
-      class="row bg-image p-5 shadow-1-strong rounded mb-5 text-white"
+      class="row bg-image p-5 shadow-1-strong rounded mb-5 text-black"
       style="background-image: url(../assets/iya.jpg)"
     >
       <div class="col-sm-6">
@@ -46,6 +49,73 @@
         </p>
       </div>
       <div class="col-sm-2"></div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-3"></div>
+      <div class="col-sm-6">
+        <h1 style="text-align: center">Kami memiliki 100+ psikater yang siap membantumu</h1>
+      </div>
+      <div class="col-sm-3"></div>
+    </div>
+    <div class="row margin-text">
+      <div class="col-sm-3"></div>
+      <div class="col-sm-6">
+        <p style="text-align: center" class="justify-content-center">
+          Lorem ipsum dolor sit amet consectetur. Ipsum blandit nisl varius aliquet hac ut tortor
+          sodales. Tellus tristique nisl urna vitae tincidunt pulvinar tellus id. Suspendisse a
+          vehicula sagittis nunc etiam cum.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="container text-center">
+      <div class="row">
+
+        <div class="col">
+          <div class="card" style="width: 18rem; margin: 50px">
+          <img src="..." class="card-img-top" alt="..." />
+          <div class="card-body" style="">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the card's
+              content.
+            </p>
+            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+          </div>
+        </div>
+        </div>
+
+        <div class="col">
+          <div class="card" style="width: 18rem; margin: 50px">
+          <img src="..." class="card-img-top" alt="..." />
+          <div class="card-body" style="">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the card's
+              content.
+            </p>
+            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+          </div>
+        </div>
+        </div>
+
+        <div class="col">
+          <div class="card" style="width: 18rem; margin: 50px">
+          <img src="..." class="card-img-top" alt="..." />
+          <div class="card-body" style="">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the card's
+              content.
+            </p>
+            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+          </div>
+        </div>
+        </div>
+
+      </div>
     </div>
   </div>
 </template>
